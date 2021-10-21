@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Angular-1568C3?style=for-the-badge&logo=angular&logoColor=%23c3002f" />
     <img src="https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react&logoColor=%2361dafb" />
     <img src="https://img.shields.io/badge/Nest-FFF?style=for-the-badge&logo=nestjs&logoColor=%23d6214a" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff" />
         <br>
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
     <img src="https://img.shields.io/badge/Vercel-575757?style=for-the-badge&logo=vercel&logoColor=white" />
