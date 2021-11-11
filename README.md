@@ -8,9 +8,7 @@
     <img src="https://img.shields.io/badge/Angular-1568C3?style=for-the-badge&logo=angular&logoColor=%23c3002f" />
     <img src="https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react&logoColor=%2361dafb" />
     <img src="https://img.shields.io/badge/Nest-FFF?style=for-the-badge&logo=nestjs&logoColor=%23d6214a" />
-    <img src="https://img.shields.io/badge/Dart-339933?style=for-the-badge&logo=Dart&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/Flutter-4A4A4A?style=for-the-badge&logo=Flutter&logoColor=1967d2" />
         <br>
     <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
     <img src="https://img.shields.io/badge/Vercel-575757?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -20,4 +18,8 @@
     <img src="https://img.shields.io/badge/-API-181717?style=for-the-badge&logo=json" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <br>
+    <h2 align="center">Recents</h2>
+    <img src="https://img.shields.io/badge/Dart-339933?style=for-the-badge&logo=Dart&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Flutter-4A4A4A?style=for-the-badge&logo=Flutter&logoColor=1967d2" />
 </div>
