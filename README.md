@@ -1,5 +1,7 @@
 <h1 align="center">My Skills</h1>
-<h4 align="center">Este perfil é utilizado somente para informações, qualquer projeto vinculado, não demonstra minha atual experiencia</h4>
+<h4 align="center">
+This profile is used exclusively for information, any linked project does not demonstrate my current experience, for more information and current data contact me by email: <a href="mailto:danielwust99@gmail.com">MY BEST EMAIL</a>.
+Thank you for your attention and I wish you success in your career.</h4>
 
 <hr>
 <div style="display: flex; flex-wrap: wrap">
