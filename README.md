@@ -1,4 +1,8 @@
-<h1 align="center">My Skills</h1>
+<h1 align="center" style="display: flex; justify-content: space-between;"> 
+    <span>My Skills and Visitors</span> -
+    <img align="center" src="https://profile-counter.glitch.me/{DanielWust}/count.svg" />
+</h1>
+
 <h4 align="center">
 This profile is used exclusively for information, any linked project does not demonstrate my current experience, for more information and current data contact me by email: <a href="mailto:danielwust99@gmail.com">MY BEST EMAIL</a>.
 Thank you for your attention and I wish you success in your career.</h4>
