@@ -1,4 +1,6 @@
 <h1 align="center">My Skills</h1>
+<h4 align="center">Este perfil é utilizado somente para informações, qualquer projeto vinculado, não demonstra minha atual experiencia</h4>
+
 <hr>
 <div style="display: flex; flex-wrap: wrap">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -22,4 +24,6 @@
     <h2 align="center">Recents</h2>
     <img src="https://img.shields.io/badge/Dart-339933?style=for-the-badge&logo=Dart&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/Flutter-4A4A4A?style=for-the-badge&logo=Flutter&logoColor=1967d2" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
