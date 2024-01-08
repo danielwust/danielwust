@@ -11,11 +11,19 @@ Thank you for your attention and I wish you success in your career.
 </h4>
 
 <hr>
-<div style="display: flex; flex-wrap: wrap">
+<div style="display: flex; flex-wrap: wrap">    
+    <!-- Languages -->
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="color: white;" />
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
+    <!-- Back End -->
+    <img src="https://img.shields.io/badge/C%23-6B3878?style=for-the-badge&logo=c-sharp#&logoColor=white" />  
+    <!-- Game Development -->
+    <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
+    <img src="https://img.shields.io/badge/Unreal_Blueprint-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
+        <br>    
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img src="https://img.shields.io/badge/PHP-808BB6?style=for-the-badge&logo=php&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/C%23-6B3878?style=for-the-badge&logo=c-sharp#&logoColor=white" />
     <img src="https://img.shields.io/badge/Angular-1568C3?style=for-the-badge&logo=angular&logoColor=%23c3002f" />
     <img src="https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react&logoColor=%2361dafb" />
     <img src="https://img.shields.io/badge/Nest-FFF?style=for-the-badge&logo=nestjs&logoColor=%23d6214a" />
