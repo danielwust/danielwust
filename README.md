@@ -9,8 +9,30 @@ This profile is used exclusively for information, any linked project does not de
 Thank you for your attention and I wish you success in your career.
 <img align="center" src="https://i.imgur.com/iIZP6dw.gif" height="33px" />
 </h4>
-
 <hr>
+
+<div>
+    <a href="https://www.linkedin.com/in/daniel-wust-513640209" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://www.instagram.com/danielwust" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://t.me/danielwust" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+    </a>
+    <a href="https://wa.me/5551935000925" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    </a>
+    <a href="https://www.facebook.com/wustdaniel/" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    </a>
+    <a href="https://steamcommunity.com/id/danielwust" target="_blank">
+        <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+    </a>
+</div>
+<hr>
+
 <div style="display: flex; flex-wrap: wrap">    
     <!-- Languages -->
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="color: white;" />
