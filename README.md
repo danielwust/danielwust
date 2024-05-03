@@ -5,13 +5,18 @@
 </h1>
 
 <h4 align="center">
-    This profile is used exclusively for information, any linked project does not demonstrate my current experience, for more information     and current data contact me by email: <a href="mailto:danielwust99@gmail.com">MY BEST EMAIL</a>.<br>
+    This profile is used exclusively for information, for more information and current data contact me.<br>
     Thank you for your attention and I wish you success in your career.
     <img align="center" src="https://i.imgur.com/iIZP6dw.gif" height="33px" />
+    <br><br>
+    Note: The GitHub-linked projects showcased here are for practice purposes and may not fully reflect my current expertise.
 </h4>
 <hr>
 
 <div>
+    <a href="mailto:danielwust99@gmail.com">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
     <a href="https://www.linkedin.com/in/daniel-wust-513640209" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
