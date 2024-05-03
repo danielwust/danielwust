@@ -33,7 +33,8 @@ Thank you for your attention and I wish you success in your career.
 </div>
 <hr>
 
-<div style="display: flex; flex-wrap: wrap">    
+<!-- <div style="display: flex; flex-wrap: wrap"> -->
+<div> 
     <!-- Languages -->
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" style="color: white;" />
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
