@@ -59,6 +59,7 @@
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/Nest-FFF?style=for-the-badge&logo=nestjs&logoColor=%23d6214a" />
     <img src="https://img.shields.io/badge/Node-339933?style=for-the-badge&logo=Node.js&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
 <h3>Front End</h3>
     <img src="https://img.shields.io/badge/PHP-808BB6?style=for-the-badge&logo=php&logoColor=ffffff" />
